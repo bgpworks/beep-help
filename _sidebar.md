@@ -1,3 +1,4 @@
 - [HOME](/)
 - [처음 사용하기](/getting-started.md) 
+- [결제](/payment.md) 
 - [자주 묻는 질문](/faq.md)

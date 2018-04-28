@@ -5,6 +5,7 @@ BEEP을 사용하시려면 아이폰이나 안드로이드 폰으로 앱을 다�
 [![github pages](_images/googleplay.png)](http://play.google.com/store/apps/details?id=com.bgpworks.beep)
 [![github pages](_images/appstore.png)](http://itunes.apple.com/app/1242739153)
 <br>
+<br>
 
 ### 2. 로그인하기
 BEEP은 별도의 회원 가입이 없습니다. 아래 3가지 방법으로 로그인을 하시면 바로 BEEP을 이용할 수 있습니다.

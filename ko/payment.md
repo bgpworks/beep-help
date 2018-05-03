@@ -2,7 +2,7 @@
 
 **BEEP 프리미엄 서비스**는 보다 안정적이고, 기업 사용자의 요구를 충족시키기위한 서비스입니다.<br/>
 상품수 50개 미만으로 사용하시는 고객은 계속 무료로 사용하실수 있으며, 상품수 50개 이상을 관리하시려면 BEEP 프리미엄 서비스로 전환하셔야 합니다.<br/>
-10개 이상의 팀을 동시에 관리하거나 결제가 필요한 경우 **[BEEP 엔터프라이즈(기업) 문의](https://goo.gl/forms/ytTWm2sGbeylEwCN2)**를 통해 문의 주시면 할인된 가격으로 서비스를 이용하실 수 있습니다.
+10개 이상의 팀을 동시에 관리하거나 결제가 필요한 경우 **[BEEP 엔터프라이즈(기업) 문의](https://docs.google.com/forms/d/e/1FAIpQLSf3Xee0tp-SIqVQR79ZcIcJx4bZjNyQXGWgSvj6RecrsfNX2g/viewform?usp=sf_link)**를 통해 문의 주시면 할인된 가격으로 서비스를 이용하실 수 있습니다.
 
 <br/>
 ### BEEP 프리미엄 서비스 이용 혜택
@@ -40,7 +40,7 @@
  - 추가 개발이 필요한 경우 (통계 및 POS 연동등 협의 후 진행)
  - 최대 30% ~ 50%까지 할인 가능 (1,000개 이상의 팀을 결제하는 경우 협의 가능)
 
- **[BEEP 엔터프라이즈(기업) 문의](https://goo.gl/forms/ytTWm2sGbeylEwCN2)**
+ **[BEEP 엔터프라이즈(기업) 문의](https://docs.google.com/forms/d/e/1FAIpQLSf3Xee0tp-SIqVQR79ZcIcJx4bZjNyQXGWgSvj6RecrsfNX2g/viewform?usp=sf_link)**
 
 <br/>
 ### BEEP 프리미엄 FAQ

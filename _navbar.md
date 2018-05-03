@@ -1,3 +1,3 @@
-- Language
+- Languages. 
   - [:kr: 한국어](/ko/)
   - [:uk: English](/)

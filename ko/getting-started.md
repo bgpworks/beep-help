@@ -2,8 +2,8 @@
 
 ### 1. 설치하기
 BEEP을 사용하시려면 아이폰이나 안드로이드 폰으로 앱을 다운받아 설치하여야 합니다.<br/>
-[![github pages](_images/googleplay.png)](http://play.google.com/store/apps/details?id=com.bgpworks.beep)
-[![github pages](_images/appstore.png)](http://itunes.apple.com/app/1242739153)
+[![github pages](../_images/googleplay.png)](http://play.google.com/store/apps/details?id=com.bgpworks.beep)
+[![github pages](../_images/appstore.png)](http://itunes.apple.com/app/1242739153)
 <br>
 <br>
 

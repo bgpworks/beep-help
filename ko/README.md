@@ -1,4 +1,4 @@
-![github pages](_images/beep_logo.svg)
+![github pages](../_images/beep_logo.svg)
 
 BEEP은 편의점, 마트, 백화점, 음식점, 중간유통 업체 등에서 스마트폰으로 간편하게 유통기한을 관리하는 서비스입니다. 유통기한이 임박한 상품을 BEEP에서 알려드립니다.
 

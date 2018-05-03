@@ -1,4 +1,4 @@
-- [HOME](/)
-- [처음 사용하기](/getting-started.md) 
-- [결제](/payment.md) 
-- [자주 묻는 질문](/faq.md)
+- [HOME](/ko/)
+- [처음 사용하기](/ko/getting-started.md) 
+- [결제](/ko/payment.md) 
+- [자주 묻는 질문](/ko/faq.md)

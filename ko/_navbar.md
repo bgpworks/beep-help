@@ -1,3 +1,3 @@
-- Language
+- 언어 변경
   - [:kr: 한국어](/ko/)
   - [:uk: English](/)

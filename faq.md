@@ -1,29 +1,29 @@
 # FAQ
 
-#### Q. BEEP으로 관리중인 상품들을 엑셀로 다운 받을 수 있나요?
-<b>[설정] > [엑셀 다운로드]</b>를 통하여 관리중인 상품의 리스트를 엑셀로 다운 받을 수 있습니다.
+#### Q. Can I download the managing product lists to Excel?
+The list of products will be downloaded in Excel file by clicking <b>[Setting] > [Export to Excel]</b>.
 <br/>
 <br/>
-#### Q. 관리 중인 팀을 하나로 합칠 수 있나요?
-고객님이 직접 팀을 합칠 수 있는 방법은 없습니다. 저희에게 문의 주시면 도와드리겠습니다.
+#### Q. Can I combine my group as one?
+There is no way you can combine the group by yourself. Please contact us and we will assist you.
 <br/>
 <br/>
-#### Q. 팀 탈퇴를 하려면 어떻게 하나요?
-<b>[멤버] > [편집]</b> 에서 본인을 삭제하시면 팀 탈퇴를 하실 수 있습니다.
+#### Q. How to withdraw from the group?
+You can leave your team by clicking <b>[Member] > [Select member]</b>.
 <br/>
 <br/>
-#### Q. 바코드 스캔을 할 수 없다는 메시지가 뜰 때 어떻게 하나요?
-바코드 스캔은 앱 실행시 바코드 스캔 모듈을 다운받아서 처리합니다. 네트워크가 좋은 환경에서 앱을 재실행 해보세요.
+#### Q. What can I do when I am getting an message saying 'unable to scan the barcode'?
+The barcode scan will be activated by downloading the barcode scanning module. Please check your internet connection and try again.
 <br/>
 <br/>
-#### Q. 상품 등록에 제한이 있나요?
-무료 고객님은 50개까지 상품을 등록할 수 있으며, 프리미엄 고객님은 무제한으로 서비스를 이용하실 수 있습니다.
+#### Q. Is there a limit on product registration?
+Free customers can register up to 50 items and premium customers can register up to unlimited numbers.
 <br/>
 <br/>
-#### Q. 알림 날짜는 어떻게 설정할 수 있나요?
-<b>[카테고리] > [설정]</b>에서 고객님이 원하는 알림 날짜를 설정하실 수 있습니다.
+#### Q. How to manage the notification?
+You can set up the date to get a notification by clicking <b>[Category] > [Setting]</b>.
 <br/>
 <br/>
-#### Q. 기기 변경을 하게 되면 기존 팀에 들어갈 수 있나요?
-기기를 바꾸어도 기존 로그인으로 접속하시면 동일하게 사용하실 수 있습니다.
+#### Q. Can I join my existing group with a different device?
+Even if you change the device, you can still use existing account from your previous device.
 

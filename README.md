@@ -1,29 +1,29 @@
 ![github pages](_images/beep_logo.svg)
 
-BEEP은 편의점, 마트, 백화점, 음식점, 중간유통 업체 등에서 스마트폰으로 간편하게 유통기한을 관리하는 서비스입니다. 유통기한이 임박한 상품을 BEEP에서 알려드립니다.
+BEEP provides a service that you can conveniently manage product's expiration date. With your smartphone you can utilize this app at any places such as convenience stores, marts, department stores, restaurants, and mid-distribute sites. BEEP will constantly alert you on upcoming expired products. 
 
-## 시작하기
-BEEP을 처음 사용하신다면 아래 링크로 시작해보세요.
+## How to Start
+For the first user, please check the links below.
  - [Quick start](/getting-started.md)
  - [Payment](/payment.md)
  - [FAQ](/faq.md)
 
-## BEEP 핵심 기능
-### 1. 간편한 상품 등록
-휴대폰 바코드 스캔으로 상품 정보(이미지, 상품명)가 자동으로 표기되어, 유통기한 날짜만 입력하시면 됩니다. 만약 바코드에 해당하는 상품 정보가 없다면, 한번만 입력하세요.  다음 바코드 스캔 시 상품 정보가 자동 표기됩니다.
+## BEEP Key features
+### 1. Simply register your products
+Once you scan the barcode of your product, the product information (image, product name) will be automatically uploaded into the system. Then, all you need to do is to enter the product expiration date. If you do not have the product information, please enter it once. The Product information will be automatically saved for the next time.
 
-### 2. 팀 플레이
-같이 일하는 동료를 팀으로 초대하여 상품 유통기한을 함께 입력하고, 함께 체크하세요. 효율적인 유통기한 관리가 가능합니다.
+### 2. Team play
+Invite your colleague to join your team. With them, you can more easily and effectively manage your product's expiration date as a team.
 
-### 3. 유통기한 임박 상품 알림
-등록한 상품의 유통기한이 다가오면 BEEP에서 푸시 메시지로 알려드립니다. 푸시 메시지는 원하는 시간을 설정하여 받을 수 있습니다.
+### 3. Notify a product is about to expired
+BEEP will notify you with a push message when the registered product is close to expired. You can set up your own time to get a push message.
 
-### 4. 카테고리별 관리
-유통기한 상품을 카테고리별로 분류하여 관리할 수 있습니다. 또한 카테고리 특성에 따라 알림 날짜를 설정하여 디테일하게 유통기한 관리가 가능합니다.
+### 4. Manage by category
+Manage the expiration date by category. You can customized to set up the notification date based on the each categories.
 
-### 5. 검색 기능
-바코드 스캔으로 등록된 상품을 빠르게 검색하여 유통기한 정보를 빠르게 확인할 수 있습니다.
+### 5. Search feature
+You can quickly search for registered products through barcode scanning to quickly view expiration dates.
 
-### 6. 안정적인 데이터 보관
-모든 데이터는 서버에 안정적으로 보관하고 있습니다. 앱을 지우고 새로 설치해도 모든 데이터는 안전하게 보관되어 있습니다.
+### 6. Secure data storage
+All data is kept reliably on the server. Even if you clear the app and install it again, all your data is safe.
 

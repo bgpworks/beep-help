@@ -1,75 +1,72 @@
 # BEEP Premium service
 
-**BEEP 프리미엄 서비스**는 보다 안정적이고, 기업 사용자의 요구를 충족시키기위한 서비스입니다.<br/>
-상품수 50개 미만으로 사용하시는 고객은 계속 무료로 사용하실수 있으며, 상품수 50개 이상을 관리하시려면 BEEP 프리미엄 서비스로 전환하셔야 합니다.<br/>
-10개 이상의 팀을 동시에 관리하거나 결제가 필요한 경우 **[BEEP 프리미엄 기업 서비스](https://docs.google.com/forms/d/1DOHecO-1xbndQIck90HuNhBJoJuh9Ez0pALEgWLZU7Q)**를 통해 문의 주시면 할인된 가격으로 서비스를 이용하실 수 있습니다.
+**BEEP Premium** provides more reliable and suitable service for enterprise users.<br/>
+The service is free for all users up to 50 products. You must upgrade your service to BEEP Premium if you want to manage more than 50 products.<br/>
+If you need to manage more than 10 teams at the same time, please contact us. If you contact us through **[BEEP premium enterprise service](https://docs.google.com/forms/d/1DOHecO-1xbndQIck90HuNhBJoJuh9Ez0pALEgWLZU7Q)**, we offer you the payment discount.
 
 <br/>
-### BEEP 프리미엄 서비스 이용 혜택
- - 상품을 무제한으로 등록할 수 있습니다.
- - 팀 멤버 수를 무제한으로 초대할 수 있습니다.
- - 친구에게 알리기 및 광고를 노출하지 않습니다.
- - 빠르게 서포트를 지원합니다.
+### The benefits of BEEP Premium
+ - You can add unlimited number of products.
+ - You can invite unlimited number of group members.
+ - Your will not expose to any ads and notify to your friend message.
+ - You can get a quick support.
 
 <br/>
-### BEEP 프리미엄 서비스 가격 정책
- -  프리미엄 1개월 : <b>14,000원</b>
- -  프리미엄 3개월 : <b>33,000원</b> (11,000원/1개월, 약 22% 할인)
- -  프리미엄 6개월 : <b>55,000원</b> (9,200원/1개월, 약 35% 할인)
- -  프리미엄 12개월 : <b>93,500원</b> (7,800원/1개월, (약 45% 할인)
- > **1개월**은 30일을 기준입니다. 1개월 결제를 진행하신 경우, 결제일 기준으로 30일까지 사용할 수 있습니다.
- > 만약, 1개월 연장을 두번 결제한 경우 60일이 연장됩니다.
+### BEEP Premium Pricing
+ -  Premium 1 month : <b>14,000원</b>
+ -  Premium 3 months: <b>33,000원</b> (11,000원/1개월, approximately 22% off)
+ -  Premium 6 months : <b>55,000원</b> (9,200원/1개월, approximately 35% off)
+ -  Premium 12 months : <b>93,500원</b> (7,800원/1개월, approximately 45% off)
+ > **One month** is 31 days. If you made a monthly payment, you can use it up to 31 days from the payment date. If you paid for a month extension twice, 62 days will be extended.
 
 <br/>
-### BEEP 프리미엄 서비스 이용 방법
- - <b>`안드로이드`</b>
-  1. 상단 좌측 메뉴를 선택
-  2. 좌측 메뉴에서 `설정`을 선택
-  3. 설정화면에서 결제정보의 `프리미엄`을 선택
-  4. 결제 화면에서 결제를 진행
+### How to use Beep Premium
+ - <b>`Android`</b>
+  1. Select the top left menu
+  2. Select `Settings` from the left menu
+  3. Select premium for payment information in the setup screen
+  4. Process payment on payment screen
 
- - <b>`아이폰`</b>
-  1. 하단 탭 메뉴에서 `설정`을 선택
-  2. 설정화면에서 결제정보의 `프리미엄`을 선택
-  3. 결제 화면에서 결제를 진행
-
-<br/>
-### BEEP 엔터프라이즈(기업) 서비스
- - 10개 이상의 여러 팀 결제가 필요한 경우
- - 사업자/법인 결제가 필요한 경우
- - 추가 개발이 필요한 경우 (통계 및 POS 연동등 협의 후 진행)
- - 최대 30% ~ 50%까지 할인 가능 (1,000개 이상의 팀을 결제하는 경우 협의 가능)
-
- **[엔터프라이즈(기업) 문의](https://docs.google.com/forms/d/1DOHecO-1xbndQIck90HuNhBJoJuh9Ez0pALEgWLZU7Q)**
+ - <b>`iPhone`</b>
+  1. Select `Settings` from the bottom tab menu
+  2. Select `Premium` for payment information in the setup screen
+  3. Process payment on the payment screen
 
 <br/>
-### BEEP 프리미엄 FAQ
-#### Q. 결제 내역은 어디서 확인할 수 있나요?<br/>
-<b>[설정] → [결제] → [결제]</b> 내역에서 결제일, 결제자, 사용 기간을 확인할 수 있습니다.
+### BEEP premium enterprise service
+ - If more than 10 groups payments are required
+ - If business or corporate payment is required
+ - Up to 30 % to 50 % discount (the service fee can be negotiable if you want to make a payment for more than 1,000 groups)
+
+ **[Request for Enterprise customer](https://docs.google.com/forms/d/1DOHecO-1xbndQIck90HuNhBJoJuh9Ez0pALEgWLZU7Q)**
 
 <br/>
-#### Q. 결제 후 사용 기간이 만료되면 어떻게 되나요?<br/>
-사용 기간이 만료되면 추가 상품 등록이 불가능하며, 등록했었던 상품의 유통기한 알림은 계속 사용할 수 있습니다. 재결제가 이뤄지는 순간 모든 서비스를 원활히 사용하실 수 있습니다.
+### BEEP Premium FAQ
+#### Q. Where can I find my purchase history?<br/>
+You can check the payment date, period of service by clicking <b>[Settings] → [Payment History] </b>.
 
 <br/>
-#### Q. 현재 만료일이 며칠 남았습니다. 1개월 결제를 진행하면 어떻게 되나요?<br/>
-만약 만료일이 3일 남았고, 1개월 결제를 현재 시점에서 진행하면 33일까지 사용할 수 있습니다. 모든 결제는 현재 남아있는 일수에 합산으로 만료일이 설정됩니다.
+#### Q. What happens if I don't make the premium payment by the end of the grace period?<br/>
+You can not register any additional products when the period is over. However, you can continue to get notifications for the registered products. All services will be activated as soon as you make the payment.
 
 <br/>
-#### Q. BEEP 프리미엄 서비스 이용 종료일이 다가오는데, 어떻게 연장하나요?<br/>
-BEEP 결제는 플레이스토어나 앱스토어(인앱 결제)를 통해 이루어지며, BEEP 앱내에서 결제를 진행하시면 연장됩니다.
+#### Q. The current expiration date is a few days away. What happens if I make a monthly payment?<br/>
+If you have three days left until the expiration date and you proceed with the monthly payment at this point. Then, you can use the service till 34 days. All payments will be expired in addition to the number of days remaining.
 
 <br/>
-#### Q. 결제는 완료되었는데 상품을 추가할수 없습니다. 어떻게 해야 하나요?<br/>
-아래 고객센터로 연락하면 빠르게 처리해 드리겠습니다.
+#### Q. BEEP Premium end date is approaching, how do I extend it?<br/>
+The BEEP payment should be made through the play store or app store. You can automatically extend the service if payment is processed within the BEEP app.
+
+<br/>
+#### Q. The payment has been completed, but I can not add any products. What should I do?<br/>
+Please contact the customer service center below and we will respond as quickly as possible.
  - 이메일 : support@bgpworks.com
- - 카카오 플러스 친구 : 카카오톡 내 플러스 친구 검색 @beep
  
 <br/>
-#### Q. BEEP 프리미엄 서비스 환불규정은 어떻게 되나요?<br/>
-저희는 인앱 결제로 진행한 회원의 결제 정보를 변경할 권한이 없으므로, 환불 처리는 구글과 애플의 환불정책에 따릅니다. 
- - 안드로이드 유저 : 구글 플레이 고객센터 혹은 BEEP 고객센터 
- - 아이폰 유저는 : 애플 고객센터로 문의하여 주시기 바랍니다.
+#### Q. What is the refund policy for BEEP premium?<br/>
+We do not have the right to change the payment information of members using in-app payment. Therefore the refund is in accordance with Google and Apple's refund policy.
+ - Android Users : Contact Google Play Customer Center or BEEP Customer Center
+ - iPhone users : Contact Apple Customer Service.
 
 
 

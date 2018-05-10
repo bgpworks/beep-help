@@ -1,77 +1,76 @@
 # Quick start 
 
-### 1. 설치하기
-BEEP을 사용하시려면 아이폰이나 안드로이드 폰으로 앱을 다운받아 설치하여야 합니다.<br/>
+### 1. Installation
+Beep is available on iOS and Android. Simply download and install the app.<br/>
 [![github pages](_images/googleplay.png)](http://play.google.com/store/apps/details?id=com.bgpworks.beep)
 [![github pages](_images/appstore.png)](http://itunes.apple.com/app/1242739153)
 <br>
 <br>
 
-### 2. 로그인하기
-BEEP은 별도의 회원 가입이 없습니다. 아래 3가지 방법으로 로그인을 하시면 바로 BEEP을 이용할 수 있습니다.
-- `카카오톡`
-- `구글`
-- `페이스북`
+### 2. Login
+There is no signup. You can log in using 3 ways below.
+- `Google`
+- `Facebook`
+- `Kakao Talk`
 <br>
 <br>
 
-### 3. 기본 설정하기
-#### 1) 팀 이름 변경하기<br/>
- 팀 이름은 기본으로 '우리집'으로 되어 있습니다. 매장명 또는 구분하기 쉬운 이름으로 팀 이름을 변경합니다.
- - <b>[좌측 상단 메뉴] → [설정] → [팀 이름] → [팀 이름 변경]</b>
+### 3. Settings
+#### 1) Change the team name<br/>
+ The team name is set up as 'Default Group' by default. We recommend the team name to be renamed to identify/distinguish each stores.
+ - <b>[Top left menu] → [Settings] → [Group Name] → [Change Group Name]</b>
  
    
-#### 2) 개인 설정 변경하기<br/>
- 개인 이름 및 사진은 로그인 계정을 통하여 설정된 이름과 사진으로 설정되어 있습니다. 필요에 따라 이름 및 사진을 변경합니다.
+#### 2) Personal setting<br/>
+ Your profile (name and picture) will be copied from your login account. Change the name and picture if you needed.
  
-#### 3) 카테고리 편집 및 추가<br/>
- 카테고리는 기본으로 '미분류' 하나로 되어 있습니다. 필요에 따라 카테고리를 추가, 편집할 수 있습니다.
- - <b>[좌측 상단 메뉴] → [카테고리 추가 및 편집]</b> 
+#### 3) Edit or add a category<br/>
+ The category folder is named in 'Uncategorized' as a default. You can add and edit your own categories as needed.
+ - <b>[Top left menu] → [Add or Edit Category]</b> 
 <br>
 <br>
 
-### 4. 상품 추가하기
-상품 추가 시 스마트폰 내장 카메라로 바코드 스캔을 합니다. 스캔 시 자동으로 상품 바코드 정보(이미지, 상품명)를 불러옵니다.
-바코드 번호를 직접 입력하여 상품을 추가할 수 있으며, 만약 관리하는 상품에 바코드가 없는 경우 사진으로 상품을 추가할 수 있습니다.
-#### 1) 바코드 스캔 
-  * 카메라 화면을 바코드 가까이 위치시키면 "삡"소리와 함께 스캔이 동작합니다.
-  * 바코드 번호를 직접 입력할 경우 `직접 입력`을 선택 후 키보드를 사용하여 입력합니다.
-  * 사진으로 상품을 추가하려면 `바코드 없는 제품 등록` 선택 후 상품 사진을 촬영합니다.
+### 4. Adding a Product
+When you add a product, you will scan the barcode with your smart phone camera.  when you scan, the barcode information (image and product name) will be copied automatically. You can also add a product by entering the barcode number directly. If the product you manage does not have a barcode, you can add it by uploading the picture.
+#### 1) Scan a barcode
+  * Closely point a barcode to camera screen, with a 'beep' sound, app will automatically detect and scan it. 
+  * If you enter the barcode number by yourself, select `MANUAL` and type the number.
+  * To add a product through the picture, select `Add without barcode` and take a picture of the product.
 
-#### 2) 유통기한 날짜 입력 
-  * 상품의 유통기한 날짜를 입력합니다. 유통기한 입력 포맷은 2018-01-01이며, '-'는 직접 입력하지 않아도 자동으로 입력이 됩니다. (숫자만 4자리 입력)   
-  * 상단의 상품 이름과 상품 사진이 없는 경우 직접 입력합니다.
-  * 카테고리를 선택합니다.
-  * 메모를 입력합니다. 메모는 상품리스트에서 바코드 번호 영역에 출력 되며, 만약 메모를 설정하지 않으면 바코드 번호가 출력됩니다. 
+#### 2) Enter expiration date
+  * Enter the expiration date of your product.  
+  * If you don't have a product name and picture, enter it by yourself.
+  * Select the category.
+  * Make a note. This note will be printed in the barcode number area from the product list. If you just leave it blank, only barcode number will be printed.
 <br>
 <br>
 
-### 5. 알림 설정하기
-추가된 상품은 유통기한 전에 알림 메시지를 받을 수 있습니다. 알림 날짜는 설정이 가능하며 최대 365일 전까지 설정할 수 있습니다. 또한 카테고리별로 알림 설정이 가능합니다.
-- <b>[좌측 상단 메뉴] → [카테고리 추가 및 편집] → [카테고리 선택] → [알림 날짜 설정]</b>
-  > * 유통기한 만료일을 기준, 며칠전에 알림을 받을지 설정합니다.
-  > * 해당팀 모든 멤버가 동일하게 설정됩니다.
+### 5. Set up a notification
+Added items will be notified before the expiration date. Notification dates should be changeable. You can set up the date 365 days in advance. You can also set up the alert by each categories.
+- <b>[Top left menu] → [Add or Edit Category] → [Select Category] → [Edit notification date]</b>
+  > * Schedule the date you want to receive a notification message based on the product's expiration date.
+  > * All members of your team will get a notification message accordingly. 
 
-또한, 알림을 받는 시간은 개인별로 설정이 가능합니다. 근무자의 근무 시간이 다른 경우 시간대를 개인별 설정하여 알림을 받을 수 있습니다.
-- <b>[좌측 상단 메뉴] → [설정] → [유통기한 알림] → [시간 설정]</b>
-  > * 알림을 받고 싶은 시간을 설정합니다.
-  > * 시간대 별로 최대 하루 24번 알림을 받을 수 있습니다.
+A notification can set up by each employees. Once the employees set up their own shift, a notification message will be sent during their shift accordingly.
+- <b>[Top left menu] → [Settings] → [Expiry Date Notification] → [Time Setting]</b>
+  > * Set up your own time you want to get a notification.
+  > * You may receive max 24 notifications per day.
 <br> 
 <br>
 
-### 6. 팀 멤버 설정하기
-BEEP은 여러 사람과 함께 유통기한 상품을 관리할 수 있습니다. 또한 멤버별 권한을 부여할 수 있습니다.
-#### 1) 팀 멤버 초대<br/>
-- 우측 상단 <b>[초대]</b> 선택 or
-- <b>[좌측 상단 메뉴] → [설정] → [멤버] → [상단 우측 '초대']</b>
-- 멤버 초대
-  > * 초대 링크 공유 : 메신저, 이메일, 문자등으로 초대
-  > * 연락처 친구 초대 : 주소록에 있는 친구 초대
+### 6. Set up group member
+BEEP can manage the product's expiration date with multiple people. You can also grant a permission to each members.
+#### 1) Invite to group member<br/>
+- Click on the upper right  <b>[Invite]</b> or
+- <b>[Top left menu] → [Settings] → [Member] → [Top right 'Invite']</b>
+- Invite Members
+  > * To share invitation links : Invite by messenger, email, text, etc.
+  > * To invite someone from your mobile phone's contacts : Invite friends from your address book.
   
-#### 2) 팀 멤버 권한 설정<br/>
-팀 멤버는 권한을 설정할 수 있습니다. 초기 팀 멤버로 합류 시 모든 사람은 관리자 권한을 가지고 있습니다.
-- <b>[좌측 상단 메뉴] → [설정] → [멤버] → [멤버 선택]</b>
-  > * 관리자 권한 : 모든 권한을 포함합니다.
-  > * 멤버 권한 : 상품 관리, 카테고리 관리 권한을 포함합니다.
-  > * 뷰어 : 상품 입력만 가능합니다.
+#### 2) To grant a permission to your group member<br/>
+A group member with authority can assign permission to each members. Initial member of the group has administrator privileges.
+- <b>[Top left menu] → [Settings] → [Member] → [Select Member]</b>
+  > * Admin : Has full access.
+  > * Member : Manage products and categories.
+  > * Viewer : Can only add products.
 

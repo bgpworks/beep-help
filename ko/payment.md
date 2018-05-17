@@ -5,6 +5,12 @@
 10개 이상의 팀을 동시에 관리하거나 결제가 필요한 경우 **[BEEP 엔터프라이즈(기업) 문의](https://docs.google.com/forms/d/e/1FAIpQLSf3Xee0tp-SIqVQR79ZcIcJx4bZjNyQXGWgSvj6RecrsfNX2g/viewform?usp=sf_link)**를 통해 문의 주시면 할인된 가격으로 서비스를 이용하실 수 있습니다.
 
 <br/>
+### BEEP 프리미엄 1년 사용권 (`10%` 할인)
+[![github pages](../_images/naver_store_360days.png)](http://smartstore.naver.com/bgpworks/products/2884638096)
+ - 결제시 만료일 기준으로 `1년 연장`이 됩니다.
+ - 한명이 결제하면 팀원 모두가 사용이 가능합니다.
+
+<br/>
 ### BEEP 프리미엄 서비스 이용 혜택
  - 상품을 무제한으로 등록할 수 있습니다.
  - 팀 멤버 수를 무제한으로 초대할 수 있습니다.

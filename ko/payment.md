@@ -4,7 +4,7 @@
 상품수 50개 미만으로 사용하시는 고객은 계속 무료로 사용하실수 있으며, 상품수 50개 이상을 관리하시려면 <b>BEEP 프리미엄 서비스</b>로 전환하셔야 합니다.<br/>
 10개 이상의 팀을 동시에 관리하거나 결제가 필요한 경우 **[BEEP 엔터프라이즈(기업) 문의](https://docs.google.com/forms/d/e/1FAIpQLSf3Xee0tp-SIqVQR79ZcIcJx4bZjNyQXGWgSvj6RecrsfNX2g/viewform?usp=sf_link)**를 통해 문의 주시면 할인된 가격으로 서비스를 이용하실 수 있습니다.
 
-### **[BEEP 프리미엄 1년 10% 할인권](http://smartstore.naver.com/bgpworks/products/2884638096)**
+### [BEEP 프리미엄 1년 10% 할인권](http://smartstore.naver.com/bgpworks/products/2884638096)
 [![github pages](../_images/naver_store_360days.png)](http://smartstore.naver.com/bgpworks/products/2884638096)
  - BEEP 앱에서 구매하는 것보다 `5,000원` 할인.
  - 지금 결제하면 만료일 기준으로 `1년 연장`.

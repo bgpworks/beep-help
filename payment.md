@@ -13,10 +13,10 @@ If you need to manage more than 10 teams at the same time, please contact us. If
 
 <br/>
 ### BEEP Premium Pricing
- -  Premium 1 month : <b>USD $6.99</b>
- -  Premium 3 months: <b>USD $17.99</b> (about $5.99 per month)
- -  Premium 6 months : <b>USD $26.99</b> (about $4.49 per month)
- -  Premium 12 months : <b>USD $42.99</b> (about $3.58 per month)
+ -  Premium 1 month : <b>USD $7.99</b>
+ -  Premium 3 months: <b>USD $20.99</b> (about $6.99 per month)
+ -  Premium 6 months : <b>USD $40.99</b> (about $6.83 per month)
+ -  Premium 12 months : <b>USD $74.99</b> (about $6.25 per month)
  > **One month** is 31 days. If you made a monthly payment, you can use it up to 31 days from the payment date. If you paid for a month extension twice, 62 days will be extended.
 
 <br/>
@@ -36,7 +36,6 @@ If you need to manage more than 10 teams at the same time, please contact us. If
 ### BEEP premium enterprise service
  - If more than 10 groups payments are required
  - If business or corporate payment is required
- - Up to 30 % to 50 % discount (the service fee can be negotiable if you want to make a payment for more than 1,000 groups)
 
  **[Request for Enterprise customer](https://docs.google.com/forms/d/1DOHecO-1xbndQIck90HuNhBJoJuh9Ez0pALEgWLZU7Q)**
 
